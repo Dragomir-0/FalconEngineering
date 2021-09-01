@@ -172,7 +172,7 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 [forks-url]: https://github.com/Dragomir-0/FalconEngineering/network/members
 [stars-shield]: https://img.shields.io/github/stars/Dragomir-0/FalconEngineering.svg?style=for-the-badge
 [stars-url]: https://github.com/Dragomir-0/FalconEngineering/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Dragomir-0/FalconEngineering.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/Dragomir-0/FalconEngineering
 [issues-url]: https://github.com/Dragomir-0/FalconEngineering/issues
 [license-shield]: https://img.shields.io/github/license/Dragomir-0/FalconEngineering.svg?style=for-the-badge
 [license-url]: https://github.com/Dragomir-0/FalconEngineering/blob/master/LICENSE.txt
